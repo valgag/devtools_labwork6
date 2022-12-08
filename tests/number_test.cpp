@@ -21,7 +21,7 @@ INSTANTIATE_TEST_SUITE_P(
     testing::Values(
         // positive
         std::make_tuple(0, "0", true),
-        std::make_tuple(239,"239000", true),
+        std::make_tuple(239,"239", true),
         std::make_tuple(255,"255", true),
         std::make_tuple(256,"256", true),
         std::make_tuple(10000,"10000", true),
