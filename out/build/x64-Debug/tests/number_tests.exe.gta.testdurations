@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\!savehere\itmo_hw\labworks_beggprog\labwork2-valgag\out\build\x64-Debug\tests\number_tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/0" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/1" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/2" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/3" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/4" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/5" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/6" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/7" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/8" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/9" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/10" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/11" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/12" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/13" Duration="1" />
+    <TestDuration Test="Group/ConvertingTestsSuite.EqualTest/14" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.AddTest/0" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.AddTest/1" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.AddTest/2" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.AddTest/3" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.AddTest/4" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.SubstTest/0" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.SubstTest/1" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.SubstTest/2" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.SubstTest/3" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.SubstTest/4" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.MultTest/0" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.MultTest/1" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.MultTest/2" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.MultTest/3" Duration="1" />
+    <TestDuration Test="Group/OperationTestsSuite.MultTest/4" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

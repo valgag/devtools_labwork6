@@ -1,0 +1,5 @@
+if(EXISTS "C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/tests/number_tests[1]_tests.cmake")
+  include("C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/tests/number_tests[1]_tests.cmake")
+else()
+  add_test(number_tests_NOT_BUILT number_tests_NOT_BUILT)
+endif()

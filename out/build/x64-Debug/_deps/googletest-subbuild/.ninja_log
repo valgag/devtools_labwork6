@@ -1,0 +1,21 @@
+# ninja log v5
+1	429	6870475208985062	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fb5403872c08cd91
+1	429	6870475208985062	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fb5403872c08cd91
+430	12340	6870475328140252	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2a1aada2ced987cf
+430	12340	6870475328140252	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2a1aada2ced987cf
+12341	12503	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	eed64d77b345dcf4
+12341	12503	0	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	eed64d77b345dcf4
+12503	12573	6870475330457925	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d0ceacd369fdc06
+12503	12573	6870475330457925	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d0ceacd369fdc06
+12573	12645	6870475331147979	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3ebddda1db037374
+12573	12645	6870475331147979	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3ebddda1db037374
+12645	12715	6870475331929245	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3485d654a352afb5
+12645	12715	6870475331929245	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3485d654a352afb5
+12715	12783	6870475332463105	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	89a816ed29ace4b3
+12715	12783	6870475332463105	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	89a816ed29ace4b3
+12783	12856	6870475333309437	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	b4a9f48c1beac16d
+12783	12856	6870475333309437	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	b4a9f48c1beac16d
+12856	12955	6870475334312030	CMakeFiles/googletest-populate-complete	d61dcad63a2e2799
+12856	12955	6870475334312030	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d61dcad63a2e2799
+12856	12955	6870475334312030	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	d61dcad63a2e2799
+12856	12955	6870475334312030	C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d61dcad63a2e2799

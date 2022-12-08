@@ -1,0 +1,3 @@
+C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/!savehere/itmo_hw/labworks_beggprog/labwork2-valgag/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
